@@ -1,0 +1,1 @@
+To use this, simply place it in "/blockTiles" and run it from command line with Java -jar "Import Blocks"
